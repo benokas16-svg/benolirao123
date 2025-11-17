@@ -1,0 +1,72 @@
+ 1  ls
+    2  cd documents
+    3  ls -al
+    4  mkdir benolirao
+    5  cd benolirao
+    6  touch test.txt
+    7  touch.txt
+    8  touch readme.txt
+    9  ls readme.md text.txt
+   10  ls readme.md
+   11  start readme.md
+   12  cd
+   13  ls
+   14  ls
+   15  cd
+   16  cd documents
+   17  ls
+   18  -al
+   19  cd ..
+   20  cd documents
+   21  ls
+   22  mkdir
+   23  ls -al
+   24  cd ..
+   25  cd documents
+   26  ls -al
+   27  mkdir Benolirao
+   28  mkdir benolirao123
+   29  cd benolirao123
+   30  ls
+   31  touch test.txt
+   32  ls
+   33  touch readme.md
+   34  ls
+   35  rm text.txt
+   36  rm test.txt
+   37  ls
+   38  start readme.md
+   39  config --global user.name
+   40  git config --global user.name
+   41  git config --global user.name "benokas16-svg"
+   42  git config --user.name
+   43  git config --global user.name "benokas16-svg"
+   44  git config --global user.name
+   45  git config --global user.email "benoliraokassandra16@gmail.com"
+   46  git config --global user.email
+   47  git init
+   48  ls -al
+   49  cd.git
+   50  cd .git
+   51  cd ..
+   52  git status
+   53  git add .
+   54  git status
+   55  git commit -m "Hello"
+   56  git branch -M main
+   57  git remote add origin https://github.com/benokas16-svg/benolirao123.git
+   58  git push -u origin main
+   59  start readme.md
+   60  git add .
+   61  git status
+   62  git commit -m "second commit"
+   63  git add
+   64  git add .
+   65  git push
+   66  cd ..
+   67  git clone [[200~https://github.com/benokas16-svg/benolirao123.git~
+   68  cd benolirao123
+   69  git clone https://github.com/benokas16-svg/benolirao123.git
+   70  cd benolirao123
+   71  touch history.txt
+   72  history
