@@ -1,15 +1,35 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Light Bulb Toggle</title>
+  <link rel="stylesheet" href="css/switch.css">
 </head>
 <body>
-    <h1>HELLO</h1>
-    <p>WELCOMEEEEEE burat </p>
+
+  
+  <div class="bg-bulb">
+    <img id="bg_front" class="bg-img" src="newpic/day2.png" alt="Background">
+    <img id="bg_back" class="bg-img" src="newpic/day2.png" alt="Background" style="opacity:0;">
+  </div>
 
 
+  <div class="switch-wrap">
+    <label class="theme-switch">
+      <input id="toggle-switch" class="theme-switch__checkbox" type="checkbox">
+      <div class="theme-switch__container">
+        <div class="theme-switch__clouds"></div>
+        <div class="theme-switch__stars">✦ ✦ ✦</div>
+        <div class="theme-switch__circle"></div>
+      </div>
+    </label>
+  </div>
 
+ <audio id="light_on" src="newpic/multo.mp3" preload="auto"></audio>
+  <audio id="light_off" src="newpic/light_off.mp3" preload="auto"></audio>
+
+
+  <script src="switch.js"></script>
 </body>
 </html>
